@@ -1,6 +1,6 @@
 ### Hello Reader
 
-Using Java & Hibernate I wrote the data to table in MySQL.
+Using Java & Hibernate I wrote the data to a table in MySQL.
 
 I will be using the data to make my project. 
 
